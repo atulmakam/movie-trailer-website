@@ -1,5 +1,5 @@
-Movie Trailer Website
-=====================
+Movie Trailer Website: Review and Watch Movie Trailers
+======================================================
 
 About
 -----
